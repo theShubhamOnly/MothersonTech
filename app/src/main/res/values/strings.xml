@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mothersontech</string>
+
+    <string name="album_id">Album ID : %s</string>
+    <string name="album_sub_id">Album Sub ID : %s</string>
+    <string name="no_internet_connection">Please connect to the network !! </string>
+    <string name="please_wait">Please Wait . . .</string>
+</resources>
